@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+#saves{
+    color: grey;
+}
+#incrementBTN{
+    color: white;
+    background-color: green;
+}
+#decreaseBTN{
+    color: white;
+    background-color: red;
+}
